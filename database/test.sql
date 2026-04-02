@@ -1,0 +1,2 @@
+use agendaidb;
+show tables;
